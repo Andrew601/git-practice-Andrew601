@@ -1,0 +1,11 @@
+98e9f67 Resolve merge conflict
+f2c19bf Update new_features.txt in features branch
+65165b0 Update new_feature.txt
+a11271c Add line of text to file_1.txt
+1801cde Add content to new_features.txt
+b3dc858 add empty file
+bafc2c3 Add .gitignore file
+11935a5 Add Readme file
+8ff2e6c Add content to file_2.txt
+dcd4365 Add content to file_1.txt
+4a9111d create new file

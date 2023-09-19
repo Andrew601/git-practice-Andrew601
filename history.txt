@@ -1,0 +1,116 @@
+   67  git install
+   68  git version
+   69  $ git -- version
+   70  $ git --version
+   71  git version
+   72  git config --global user.name 'Andrew601'
+   73  git config --global user.email 'ajbargeron@gmail.com'
+   74  where git
+   75  where git
+   76  which gity
+   77  which git
+   78  which git
+   79  git config --global user.name 'Andrew601'
+   80  git config --global user.email 'ajbargeron@gmail.com'
+  489  git config--list
+  490  git config --list
+  491  git --version
+  492  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  493  $ brew install git
+  494  brew install git
+  495  $ brew install git
+  499  $ brew install git
+  500  \t\nbrew install git
+  501  git --version
+  502  git --version
+  503  git config --global use.name "Andrew Bargeron"
+  504  git config user.email "ajbargeron@gmail.com"
+  505  git config --global user.email "ajbargeron@gmail.com"
+  506  git config --global core.editor "code --wait"
+  507  git config --global init.defaultBrach main
+  514  git mkdir test
+  517  git clone https://github.com/Hawkety77/git-practice-Hawkety77
+  518  git clone https://github.com/Andrew601/git-practice-Hawkety77
+  519  git branch feature-Andrew601
+  520  cd git-practice-Hawkety77
+  521  git status
+  522  git branch feature-Andrew601
+  523  git status
+  524  git switch feature-Andrew601
+  525  git status
+  528  git add .
+  529  git commit -m "add new_text_file.txt"
+  530  git push -u origin feature-Andrew601
+  531  git status
+  532  git status
+  533  git remote add origin https://github.com/Andrew601/git-practice-Hawkety77
+  534  git push origin feature-Andrew601
+  535  git status
+  536  git push -u origin main
+  537  git push -u feature-Andrew601
+  538  git push -u origin feature-Andrew601
+  539  git push -u origin feature-Andrew601
+  542  cd git-practive-Hawkety77
+  543  cd git-practice-Hawkety77
+  544  git status
+  545  git push -u origin feature-Andrew601
+  550  mkdir git_practice
+  551  cd git_practice
+  552  git init
+  554  git status
+  557  git status
+  558  git add file_1.txt file_2.txt
+  559  git status
+  560  git commit -m "create new file"
+  561  git status
+  562  git log
+  565  git status
+  566  git add file_1.txt
+  567  git commit -m "Add content to file_1.txt"
+  568  git add file_2.txt
+  569  git commit -m "Add content to file_2.txt"
+  570  git log
+  572  echo "# Git_practice\n\n a repository for practicing git commands"
+  573  git add Readme.md
+  574  git commit -m "Add Readme file"
+  575  echo "api-keys.txt" > .gitignore
+  576  git add .gitignore
+  577  git commit -m "Add .gitignore file"
+  579  git status
+  581  git status
+  582  git branch features
+  584  git checkout features
+  585  git log --oneline
+  587  git add new_features.txt
+  588  git commit -m "add empty file"
+  590  git add new_features.txt
+  591  git commit -m "Add content to new_features.txt"
+  592  git checkout main
+  593  git status
+  594  git checkout main
+  595  git branch
+  596  git checkout master
+  598  git add file_1.txt
+  599  git commit -m "Add line of text to file_1.txt\n"
+  600  git merge features
+  602  git merge features
+  603  git status
+  604  git commit
+  605  git checkout master
+  607  git add new_features.txt
+  608  git commit -m "Update new_feature.txt"
+  609  git checkout features
+  610  git checkout features
+  612  git add new_features.txt
+  613  git commit -m "Update new_features.txt in features branch"
+  614  git checkout master
+  615  git merge features
+  616  git merge features
+  617  git add new_features.txt
+  618  git commit -m "Resolve merge conflict"
+  619  git merge features
+  620  git branch -d features
+  621  git remote add origin git@github.com:Andrew601/git-practice-Andrew601.git
+  622  git push -u original main
+  623  git push -u origin master
+  624  git log --oneline > gitlog.txt
